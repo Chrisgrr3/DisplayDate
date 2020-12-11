@@ -9,7 +9,7 @@
 <meta charset="ISO-8859-1">
 	<link rel="stylesheet" type="text/css" href="css/time.css">
 	<script type="text/javascript" src="js/time.js"></script>
-	<title>Insert title here</title>
+	<title>Time</title>
 </head>
 <body>
 	

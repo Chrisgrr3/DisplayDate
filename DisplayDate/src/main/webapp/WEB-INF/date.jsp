@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta charset="ISO-8859-1">
-	<title>Insert title here</title>
+	<title>Date</title>
 	<link rel="stylesheet" type="text/css" href="css/date.css">
 	<script type="text/javascript" src="js/date.js"></script>
 </head>
